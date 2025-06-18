@@ -24,3 +24,7 @@ số lần ném, khu vực ném, số lần chuyền đúng và chuyền nhầm,
 ## Thiếu sót
 - Các cầu thủ được track chưa quá hoàn hảo, nếu cầu thủ biến mất khỏi khung hình một lúc hoặc bị che khuất bởi cầu thủ khác một lúc đủ lâu thì sẽ bị gán track id mới. Từ đó gây khó khăn cho việc tính stats
 cho từng cầu thủ riêng lẻ. Dự án mới dừng lại ở việc phân tích thông số theo đội. 
+
+
+https://github.com/user-attachments/assets/e1ac9767-8f6d-4e51-8fec-a4eff3e88dec
+
